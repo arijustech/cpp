@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ariju\\github\\cpp\\programming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25893EB1-26AA-4556-BCF3-AB91D8C289DD}|programming\\programming.vcxproj|C:\\Users\\ariju\\github\\cpp\\programming\\programming\\L1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{25893EB1-26AA-4556-BCF3-AB91D8C289DD}|programming\\programming.vcxproj|solutionrelative:programming\\L1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{25893EB1-26AA-4556-BCF3-AB91D8C289DD}|programming\\programming.vcxproj|C:\\Users\\ariju\\github\\cpp\\programming\\programming\\L1_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25893EB1-26AA-4556-BCF3-AB91D8C289DD}|programming\\programming.vcxproj|solutionrelative:programming\\L1_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "L1_1.cpp",
-              "DocumentMoniker": "C:\\Users\\ariju\\github\\cpp\\programming\\programming\\L1_1.cpp",
-              "RelativeDocumentMoniker": "programming\\L1_1.cpp",
-              "ToolTip": "C:\\Users\\ariju\\github\\cpp\\programming\\programming\\L1_1.cpp",
-              "RelativeToolTip": "programming\\L1_1.cpp",
-              "ViewState": "AgIAACAAAAAAAAAAAAAowDoAAAABAAAAAAAAAA==",
+              "Title": "L1_2.cpp",
+              "DocumentMoniker": "C:\\Users\\ariju\\github\\cpp\\programming\\programming\\L1_2.cpp",
+              "RelativeDocumentMoniker": "programming\\L1_2.cpp",
+              "ToolTip": "C:\\Users\\ariju\\github\\cpp\\programming\\programming\\L1_2.cpp",
+              "RelativeToolTip": "programming\\L1_2.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-16T08:07:18.056Z",
+              "WhenOpened": "2026-03-16T15:20:56.368Z",
               "EditorCaption": ""
             }
           ]
